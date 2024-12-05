@@ -1,0 +1,26 @@
+[
+    {
+        "name": "pew",
+        "email": "pew@gmail.com",
+        "phone": "0133783293",
+        "address": "usa"
+    },
+    {
+        "name": "rew",
+        "email": "rew@gmail.com",
+        "phone": "7323743672",
+        "address": "dhaka"
+    },
+    {
+        "name": "sumaiya",
+        "email": "sumiaya@gmail.com",
+        "phone": "12345678910",
+        "address": "dhaka"
+    },
+    {
+        "name": "ahmed",
+        "email": "ahmed@gmail.com",
+        "phone": "98765362271",
+        "address": "uk"
+    }
+]
